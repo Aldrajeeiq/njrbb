@@ -1,2 +1,2 @@
-# Telegram-Bot
-Telegram bot used to download and upload to Google Drive and Telegram built in Python!
+# This code for edit use it with UPSTREAM_REPO.
+I will add notes later...
